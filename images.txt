@@ -1,4 +1,4 @@
 mysql:8.4.3
 redis:7.4.2
-elasticsearch:7.17.27
-kibana:7.17.27
+elasticsearch:8.17.0
+kibana:8.17.0
