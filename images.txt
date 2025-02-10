@@ -4,3 +4,4 @@ elasticsearch:8.17.0
 kibana:8.17.0
 rabbitmq:4.0.5-management
 nacos/nacos-server:v2.4.3
+bladex/sentinel-dashboard:1.8.8
