@@ -8,3 +8,4 @@ bladex/sentinel-dashboard:1.8.8
 apache/rocketmq:5.1.4
 apacherocketmq/rocketmq-dashboard:1.0.0
 seataio/seata-server:2.0.0
+mysql:5.7.30
